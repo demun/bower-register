@@ -1,0 +1,20 @@
+{
+  "name": "bower-register",
+  "homepage": "https://github.com/demun/bower-register",
+  "authors": [
+    "demun <hjm01@naver.com>"
+  ],
+  "description": "바우어에 패키지를 등록하기위한 저장소",
+  "main": "",
+  "keywords": [
+    "bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
